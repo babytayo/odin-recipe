@@ -1,0 +1,77 @@
+
+/*index css*/
+#Odin-Recipe{
+    background-color: greenyellow;
+    padding-bottom: 130px;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 5ch 10ch;
+ }
+    
+h1{
+    margin-bottom: 0%;
+ }
+
+ a{
+    color: black;
+ }
+
+ a:hover{
+    color: blue;
+ }
+
+            
+
+  /*dodo and beans*/
+.dodo-and-beans{
+     font-size: 30px;
+    font-family: sans-serif;
+     width: 100%;
+     line-height: 3ch;
+}
+
+.head{
+
+     margin-bottom: 10px;
+    line-height: 21px;
+}
+
+
+.head1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+   font-weight: lighter;
+   line-height: 2ch;
+   
+}
+
+.author{
+    margin-bottom: 0px;
+     font-size: 15px;
+     text-align: left;
+}
+
+.head2{
+     margin-bottom: 0%;
+}
+
+
+
+  /*jollof*/
+#jollof{
+    font-size: 30px;  
+    font-family: sans-serif; 
+    padding: 30px;
+}
+
+.head{
+    font-size: 40px;
+    font-weight: bolder;
+
+}
+
+table{
+    line-height: 3ch; 
+    margin: 10px;
+}
